@@ -30,5 +30,5 @@ npm run dev
 To start the fake REST API server...
 
 ```sh
-npm run dev
+npm run back
 ```
